@@ -1,0 +1,12 @@
+mysql:
+  host: localhost # host of your database
+  port: 3306 # default port for MySQL
+  database: db # name of your database
+  user: username
+  password: password
+dungeon:
+  mobcount:
+  x:
+  y:
+  z:
+  world-name:

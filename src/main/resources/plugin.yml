@@ -1,0 +1,10 @@
+name: SingleDungeon
+version: '${project.version}'
+main: dev.swiss.singledungeon.singledungeon.SingleDungeon
+api-version: 1.18
+authors: [ swiss ]
+description: A single dungeon room for a player to complete.
+commands:
+  start:
+  leave:
+  stats:
